@@ -446,6 +446,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [WebAuthn/FIDO2](https://github.com/herrjemand/WebauthnAwesome) - Phishing proof passwordless authentication
 
 
 ## Content Management Systems
